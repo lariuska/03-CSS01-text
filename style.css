@@ -1,0 +1,18 @@
+* {
+    padding-left: 5px;
+    font-family: Arial, sans-serif;
+}
+
+em {
+    padding: 0px;
+}
+
+h2,
+h3 {
+    color: rgb(247, 77, 156);
+    font-family: verdana, sans-serif;
+}
+
+.one {
+    color: rgb(92, 102, 41);
+}
